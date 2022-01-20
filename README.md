@@ -5,7 +5,7 @@
 # Hi there 👋, I am Sasitha Dilshan
 #### Mobile Application Developer
 
-<img src='https://user-images.githubusercontent.com/33307043/150345190-ab514b63-7a71-4b00-b128-9555fcab69df.mp4' height=400 />
+<img src='https://user-images.githubusercontent.com/33307043/150345190-ab514b63-7a71-4b00-b128-9555fcab69df.mp4' />
 
 ## Skills
 • 📱Flutter <br>
