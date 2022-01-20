@@ -12,8 +12,9 @@
 
 ## Examples of work
 
-[<img src='https://user-images.githubusercontent.com/33307043/150347575-6ea3d48b-7858-4234-93c0-8e21593fec40.mov' height= 250/>
-<img src='https://user-images.githubusercontent.com/33307043/150348079-4c89042e-f917-4448-a566-48c3e743244d.mov' height= 250/>]
+https://user-images.githubusercontent.com/33307043/150347575-6ea3d48b-7858-4234-93c0-8e21593fec40.mov 
+
+https://user-images.githubusercontent.com/33307043/150348079-4c89042e-f917-4448-a566-48c3e743244d.mov
 
 
 
