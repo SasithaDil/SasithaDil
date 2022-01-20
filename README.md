@@ -12,13 +12,9 @@ https://user-images.githubusercontent.com/33307043/150345190-ab514b63-7a71-4b00-
 
 ## Examples of work
 
-<img src='https://user-images.githubusercontent.com/33307043/150352675-21eae2a6-5153-451c-b233-e760a75b5186.mp4' height=350 width=600 />
+https://user-images.githubusercontent.com/33307043/150352675-21eae2a6-5153-451c-b233-e760a75b5186.mp4
 
-
-
-
-
-
+\
 
 #### Contact me on
 
