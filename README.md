@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, I am Sasitha Dilshan
 #### Mobile Application Developer
 ![Mobile Application Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
