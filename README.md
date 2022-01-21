@@ -12,7 +12,7 @@
 • 📱iOS (Swift)
 
 ## Examples of work
-<img src='https://user-images.githubusercontent.com/33307043/150483150-73ff34a4-9432-415a-81a6-621ada6e0ef9.gif' height=300 />
+<img src='https://user-images.githubusercontent.com/33307043/150483150-73ff34a4-9432-415a-81a6-621ada6e0ef9.gif' height=300 width=550 />
 
 
 
