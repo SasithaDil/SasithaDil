@@ -14,10 +14,7 @@
 ## Examples of work
 <img src='https://user-images.githubusercontent.com/33307043/150483150-73ff34a4-9432-415a-81a6-621ada6e0ef9.gif' height=300 width=550 />
 
-
-
-### Contact me on
-
+## Contact me on
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SasithaDil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sasitha-Digamadulla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Sasitha_dil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:10083812)  
 
