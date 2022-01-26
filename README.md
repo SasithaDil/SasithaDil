@@ -2,7 +2,7 @@
 
 
 
-# Hi there 👋, I am Sasitha Dilshan
+# Hello there 👋, I am Sasitha Dilshan
 #### Mobile Application Developer
 <img src ='https://user-images.githubusercontent.com/33307043/150482657-adf7a762-58be-454a-88bf-c694af7aa519.gif' />
 
