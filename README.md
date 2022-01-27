@@ -20,4 +20,3 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SasithaDil)  
 
-![Profile views](https://gpvc.arturio.dev/SasithaDil)  
