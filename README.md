@@ -16,7 +16,13 @@
 
 ## Contact me on
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SasithaDil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sasitha-Digamadulla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Sasitha_dil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:10083812)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SasithaDil)
+<p align="left">
+<a href="https://github.com/SasithaDil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sasitha-digamadulla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sasitha-digamadulla-9547bb163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasitha-digamadulla" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10083812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:10083812" height="30" width="40" /></a>
+<a href="https://instagram.com/sasitha_dil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasitha_dil" height="30" width="40" /></a>
+</p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SasithaDil)  
 
