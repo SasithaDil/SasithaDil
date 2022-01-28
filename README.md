@@ -23,7 +23,5 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasithadil&show_icons=true&locale=en&layout=compact" alt="sasithadil" />
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SasithaDil)  
 
